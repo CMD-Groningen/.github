@@ -1,7 +1,7 @@
 ### CMD Groningen
 # Design | Creatie | Code
 
-<div style="max-width:300px">
+<div style="max-width:200px">
 Deze stek op Github is opgezet door David van den Bor, voor CMD Groningen. 
 Dit wordt de plek waar educatief materiaal zal worden gemaakt om te delen met de studenten van CMD om hen bij te staan met coderen/programmeren
 </div>
