@@ -6,8 +6,7 @@ Dit wordt de plek waar educatief materiaal zal worden gemaakt om te delen met de
 
 
 ## David van den Bor
-#### Docent @ Instituut voor Communicatie, Media & Design
-#### Art director / Frontend Developer @ Studio VandenBor
+#### Docent @ Instituut voor Communicatie, Media & Design <br> #### Art director / Frontend Developer @ Studio VandenBor
 www.davidvandenbor.nl <br>
 https://github.com/davidvandenbor <br>
 https://www.linkedin.com/in/davidvdbor/
