@@ -1,5 +1,5 @@
 ### CMD Groningen
-# Design | Creatie | Code
+# Design | Code
 
 
 Deze stek op Github is opgezet door David van den Bor voor CMD Groningen. 
@@ -7,6 +7,8 @@ Dit wordt de plek waar educatief referentiemateriaal zal worden gemaakt om te de
 
 
 ## David van den Bor
+Curator/Moderator
+
 #### Docent @ Instituut voor Communicatie, Media & Design <br> Art director / Frontend Developer @ Studio VandenBor
 www.davidvandenbor.nl <br>
 https://github.com/davidvandenbor <br>
