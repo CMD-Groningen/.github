@@ -13,3 +13,7 @@ Curator/Moderator
 www.davidvandenbor.nl <br>
 https://github.com/davidvandenbor <br>
 https://www.linkedin.com/in/davidvdbor/
+
+
+<img src="https://github.com/CMD-Groningen/.github/blob/main/davidvandenbor-rond.png" style="width:130px">
+
