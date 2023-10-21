@@ -2,8 +2,8 @@
 # Design | Code
 
 
-Deze stek op Github is opgezet door David van den Bor voor CMD Groningen. 
-Dit wordt de plek waar educatief referentiemateriaal zal worden gemaakt om te delen met studenten van CMD om hen bij te staan met coderen en programmeren.
+Deze educatieve hub op Github is opgezet door David van den Bor voor CMD Groningen. 
+Dit wordt de plek waar educatief referentiemateriaal zal worden gemaakt en gepubliceerd om te delen met studenten van CMD voor hulp en instructie bij coderen en programmeren.
 
 
 ## David van den Bor
