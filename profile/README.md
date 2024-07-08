@@ -14,7 +14,7 @@ De docenten willen een centrale plek, los van Blackboard en onder eigen beheer, 
 
 De tutorials en code voorbeelden moeten goed en snel te vinden zijn. Dus makkelijk te raadplegen en makkelijk te downloaden. De tutorials of code voorbeelden moeten praktisch zijn, didactisch goed gemaakt zijn en principes die tijdens de lessen geleerd zijn laten zien, zodat de student inzicht krijgt in de toepassing van het geleerde. HomeBase is dus geen vergaarbak voor random of niet educatieve content! Homebase omvat de kennis en praktijkervaring van de docenten, dat is de meerwaarde.
 
-## Requirements voor repositories
+## Requirements voor repositories: het systeem moet custom made opgezet worden zodat het zichzelf onderhoud!
 
 Zowel docenten als studenten moeten makkelijk toegang hebben tot het archief. Tutorials/code voorbeelden zijn te filteren op vak afkorting en op onderwerp (bijvoorbeeld DIO, INI, USO of animaties of EventListeners) Elke repo (lees tutorial of code voorbeeld) moet snel en simpel aan te maken zijn op basis van een voorbeeldstramien (een README.md met uitleg, code voorbeelden in kleur en automatisch browservoorbeeld in geval van HTML code voorbeeld met CSS en JS. Er moet een directe ZIP link zijn om de hele repo (tutorial) te downloaden als ZIP buiten Github om (voor Blackboard en email)
 
