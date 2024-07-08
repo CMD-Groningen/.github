@@ -10,7 +10,7 @@ De student heeft behoefte aan educatief materiaal met oefeningen en praktische c
 
 De docenten willen een centrale plek, los van Blackboard en onder eigen beheer, waar overzichtelijk al het educatieve materiaal voor de technieklessen van de vakken terug te vinden zijn. Je kunt op trefwoorden of op vaknaam het archief doorzoeken. Tutorials en code voorbeelden kunnen helder en efficiënt worden opgebouwd en gedistribueerd. Er is een “single source of truth” en het archief kan makkelijk gearchiveerd worden en verder doorgroeien en geüpdatet worden.
 
-## Requirements voor tutorials
+## Requirements voor tutorials en voorbeelden
 
 De tutorials en code voorbeelden moeten goed en snel te vinden zijn. Dus makkelijk te raadplegen en makkelijk te downloaden. De tutorials of code voorbeelden moeten praktisch zijn, didactisch goed gemaakt zijn en principes die tijdens de lessen geleerd zijn laten zien, zodat de student inzicht krijgt in de toepassing van het geleerde. HomeBase is dus geen vergaarbak voor random of niet educatieve content! Homebase omvat de kennis en praktijkervaring van de docenten, dat is de meerwaarde.
 
