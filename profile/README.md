@@ -28,10 +28,11 @@ Zowel docenten als studenten moeten makkelijk toegang hebben tot het archief. Tu
 **David van den Bor** <br>
 Curator/Moderator
 
+<img src="https://github.com/CMD-Groningen/.github/blob/main/davidvandenbor-rond.png" style="width:130px">
+
 #### Docent @ Instituut voor Communicatie, Media & Design <br> Art director / Frontend Developer @ Studio VandenBor
 www.davidvandenbor.nl <br>
 https://github.com/davidvandenbor <br>
-https://www.linkedin.com/in/davidvdbor/
-
-
-<img src="https://github.com/CMD-Groningen/.github/blob/main/davidvandenbor-rond.png" style="width:130px">
+https://www.linkedin.com/in/davidvdbor <br>
+https://github.com/CMD-Groningen <br><br>
+<img src="https://github.com/CMD-Groningen/.github/blob/main/hanze-logo.svg" style="width:180px">
