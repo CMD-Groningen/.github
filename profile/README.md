@@ -34,7 +34,7 @@ Curator/Moderator
 
 <img src="https://github.com/CMD-Groningen/.github/blob/main/davidvandenbor-rond.png" style="width:130px">
 
-#### Docent @ Instituut voor Communicatie, Media & Design <br> Art director / Frontend Developer @ Studio VandenBor
+#### Teacher & Course Developer @ Instituut voor Communicatie, Media & Design <br> Art director / Frontend Developer @ Studio VandenBor
 www.davidvandenbor.nl <br>
 https://github.com/davidvandenbor <br>
 https://www.linkedin.com/in/davidvdbor <br>
